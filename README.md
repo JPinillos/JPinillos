@@ -14,7 +14,7 @@ I finished my master at the Paris School of Economics and Université Paris 1 Pa
 
 <h2 align="left">About me:</h3> 
 
-
+<img align="left" width="33%" src="https://github.com/JPinillos/miscellaneous/blob/main/aviario001.jpg?raw=true">
 
 Colombian. Nature lover and passionate about climate change.
 
