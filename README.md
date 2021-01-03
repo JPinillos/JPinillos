@@ -1,6 +1,6 @@
 
 <h1 align="center">Hola, I'm Juliana</h1>
-<h3 align="left">I'm interested in research in Economics. I have assited in different projects in enviromental and development economics.
+<h3 align="left">I'm interested in research in Economics. I have assited in different projects in enviromental and development economics. I have experience in cleaning and analyzing large datasets. I have also coordinated and supervised data collections in Latin America. <br>
 
 I finished my master at the Paris School of Economics and Université Paris 1 Patheón Sorbonne.</h3>
 
@@ -9,7 +9,7 @@ I finished my master at the Paris School of Economics and Université Paris 1 Pa
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpinillos&show_icons=true&locale=en&layout=compact" alt="jpinillos" /></p>
 
-- 📫 How to reach me **juliana.pinillos@sciencespo.fr**
+- 📫 Feel free to reach me **juliana.pinillos@sciencespo.fr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
