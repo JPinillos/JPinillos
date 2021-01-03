@@ -19,7 +19,7 @@ I finished my master at the Paris School of Economics and Université Paris 1 Pa
 
 <h3 align="left">About me:</h3>
 
-Nature lover and passionate about climate change.
+Colombian. Nature lover and passionate about climate change.
 <img align="right" width="500" height="300" src="https://github.com/JPinillos/miscellaneous/blob/main/aviario001.jpg?raw=true">  <br/> 
 
 <h3 align="left">Connect with me:</h3>
