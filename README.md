@@ -1,4 +1,4 @@
-<img align="right" width="500" height="300" src="https://github.com/JPinillos/miscellaneous/blob/main/aviario001.jpg?raw=true">
+<img align="right" width="500" height="300" src="https://github.com/JPinillos/miscellaneous/blob/main/aviario001.jpg?raw=true">  <br/>
 <img align="right">![alt text](https://github.com/JPinillos/miscellaneous/blob/main/aviario001.jpg?raw=true) <br/>
 
 <h1 align="left">Hola, I'm Juliana</h1> 
