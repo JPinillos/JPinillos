@@ -9,7 +9,7 @@
 I finished my master at the Paris School of Economics and Université Paris 1 Patheón Sorbonne.</h3>
 
 <h2 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://github.com/JPinillos/miscellaneous/blob/main/RStudio.png" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://github.com/JPinillos/miscellaneous/blob/main/RStudio.png" <img src="https://github.com/JPinillos/miscellaneous/blob/main/stata.jpg" alt="python" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpinillos&show_icons=true&locale=en&layout=compact" alt="jpinillos" /></p>
 
