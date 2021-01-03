@@ -18,9 +18,10 @@ I finished my master at the Paris School of Economics and Université Paris 1 Pa
 
 Colombian. Nature lover and passionate about climate change.
 
-
-<img align="right" width="33%" src="https://github.com/JPinillos/miscellaneous/blob/main/aviario001.jpg?raw=true"> 
-**Align right (works fine):**
+<p style="float: right;"  width="100%">
+    <img width="33%" src="https://github.com/JPinillos/miscellaneous/blob/main/aviario001.jpg?raw=true"> <br>
+     Aviario Nacional de Colombia.
+</p>
 
 <h3 align="left">Connect with me:</h3>
 
