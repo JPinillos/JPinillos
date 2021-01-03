@@ -21,6 +21,12 @@ Colombian. Nature lover and passionate about climate change.
   <right>This is an image</right> 
 </p>
 
+<figure>
+  <img
+  src="https://github.com/JPinillos/miscellaneous/blob/main/aviario001.jpg?raw=true"
+  alt="The beautiful MDN logo.">
+  <figcaption>MDN Logo</figcaption>
+</figure>
 
 <h3 align="left">Connect with me:</h3>
 
