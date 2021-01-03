@@ -20,7 +20,7 @@ Colombian. Nature lover and passionate about climate change.
 <figure>
   <img  align="right" width="500" height="300"
   src="https://github.com/JPinillos/miscellaneous/blob/main/aviario001.jpg?raw=true"
-  alt="The beautiful MDN logo.">
+  alt="aviario.">
   <figcaption>Source: Aviario Nacional de Colombia</figcaption>
 </figure>
 
