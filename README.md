@@ -10,7 +10,7 @@ I finished my master at the Paris School of Economics and Université Paris 1 Pa
 
 <h2 align="left">Languages and Tools:</h3>
 
-<p align="left"> <a href="https://rstudio.com//" target="_blank"> <img src="https://github.com/JPinillos/miscellaneous/blob/main/RStudio.png" alt="R" width="40" height="40"/> </a> <a href="https://www.stata.com/" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Ficon%2Ffile-type-stata%2F130148&psig=AOvVaw37cyrKhZPiUNyOL3VcfGTQ&ust=1609797040348000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJiw37vfgO4CFQAAAAAdAAAAABAD?raw=true alt="Stata" width="40" height="40"/> </a> <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img src="https://github.com/JPinillos/miscellaneous/blob/main/Matlab.png" alt="Matlab" width="40" height="40"/> </a> <a href="https://qgis.org/en/site/" target="_blank"> <img src="https://github.com/JPinillos/miscellaneous/blob/main/qgis.png" alt="QGIS" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://rstudio.com//" target="_blank"> <img src="https://github.com/JPinillos/miscellaneous/blob/main/RStudio.png" alt="R" width="40" height="40"/> </a> <a href="https://www.stata.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_stata_icon_130148.png?raw=true alt="Stata" width="40" height="40"/> </a> <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img src="https://github.com/JPinillos/miscellaneous/blob/main/Matlab.png" alt="Matlab" width="40" height="40"/> </a> <a href="https://qgis.org/en/site/" target="_blank"> <img src="https://github.com/JPinillos/miscellaneous/blob/main/qgis.png" alt="QGIS" width="40" height="40"/> </a> </p>
 
 <h2 align="left">About me:</h3> 
 
