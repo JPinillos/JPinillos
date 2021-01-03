@@ -24,6 +24,13 @@ Colombian. Nature lover and passionate about climate change.
   <figcaption  align="right">Source: Aviario Nacional de Colombia</figcaption>
 </figure>
 
+
+<p align="right" width="100%">
+    This text is also aligned to the right.<br>
+    <img width="33%" src="https://github.com/JPinillos/miscellaneous/blob/main/aviario001.jpg?raw=true"> 
+</p>
+
+
 <h3 align="left">Connect with me:</h3>
 
 - 📫 **juliana.pinillos@sciencespo.fr**
