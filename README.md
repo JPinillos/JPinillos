@@ -1,6 +1,6 @@
 
 <h1 align="center">Hola, I'm Juliana</h1>
-<h3 align="left">I'm interested in research in Economics. I have assited in different projects in enviromental and development economics.
+<h4 align="left">I'm interested in research in Economics. I have assited in different projects in enviromental and development economics.
 
 I finished my master at the Paris School of Economics and Université Paris 1 Patheón Sorbonne.</h3>
 
