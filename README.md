@@ -14,14 +14,14 @@ I finished my master at the Paris School of Economics and Université Paris 1 Pa
 
 <h2 align="left">About me:</h3> 
 
+
+
+Colombian. Nature lover and passionate about climate change.
+
 <p style="float: right;"  width="100%">
     <img width="33%" src="https://github.com/JPinillos/miscellaneous/blob/main/aviario001.jpg?raw=true"> <br>
      Aviario Nacional de Colombia.
 </p>
-
-Colombian. Nature lover and passionate about climate change.
-
-
 
 
 <h3 align="left">Connect with me:</h3>
