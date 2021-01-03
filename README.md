@@ -17,8 +17,9 @@ I finished my master at the Paris School of Economics and Université Paris 1 Pa
 Colombian. Nature lover and passionate about climate change.
 
 <p align="right" width="100%">
-    Aviario Nacional de Colombia.<br>
+    <br>
     <img width="33%" src="https://github.com/JPinillos/miscellaneous/blob/main/aviario001.jpg?raw=true"> 
+    Aviario Nacional de Colombia.
 </p>
 
 
