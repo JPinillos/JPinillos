@@ -10,7 +10,7 @@ I finished my master at the Paris School of Economics and Université Paris 1 Pa
 
 <h2 align="left">Languages and Tools:</h3>
 
-<p align="left"> <a href="https://www.erlang.org/" target="_blank"> <img src="https://github.com/JPinillos/miscellaneous/blob/main/RStudio.png" alt="R" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://github.com/JPinillos/miscellaneous/blob/main/stata.jpg?raw=true alt="Stata" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://github.com/JPinillos/miscellaneous/blob/main/Matlab.png" alt="Matlab" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank"> <img src="https://github.com/JPinillos/miscellaneous/blob/main/qgis.png" alt="QGIS" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://rstudio.com//" target="_blank"> <img src="https://github.com/JPinillos/miscellaneous/blob/main/RStudio.png" alt="R" width="40" height="40"/> </a> <a href="https://www.stata.com/" target="_blank"> <img src="https://github.com/JPinillos/miscellaneous/blob/main/stata.jpg?raw=true alt="Stata" width="40" height="40"/> </a> <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img src="https://github.com/JPinillos/miscellaneous/blob/main/Matlab.png" alt="Matlab" width="40" height="40"/> </a> <a href="https://qgis.org/en/site/" target="_blank"> <img src="https://github.com/JPinillos/miscellaneous/blob/main/qgis.png" alt="QGIS" width="40" height="40"/> </a> </p>
 
 
 
