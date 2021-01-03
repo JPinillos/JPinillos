@@ -1,4 +1,5 @@
 <img align="right" width="500" height="300" src="https://github.com/JPinillos/miscellaneous/blob/main/aviario001.jpg?raw=true">
+<img align="right">![alt text](https://github.com/JPinillos/miscellaneous/blob/main/aviario001.jpg?raw=true) <br/>
 
 <h1 align="left">Hola, I'm Juliana</h1> 
 
@@ -6,7 +7,7 @@
 
 I finished my master at the Paris School of Economics and Université Paris 1 Patheón Sorbonne.</h3>
 
-<img align="right">![alt text](https://github.com/JPinillos/miscellaneous/blob/main/aviario001.jpg?raw=true)
+
 
 <h2 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
