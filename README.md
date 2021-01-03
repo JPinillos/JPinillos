@@ -18,25 +18,8 @@ Colombian. Nature lover and passionate about climate change.
 
 <p>
 <img align="right" width="500" height="300" src="https://github.com/JPinillos/miscellaneous/blob/main/aviario001.jpg?raw=true"> <br> 
-  <center>This is an image</center> 
+  <right>This is an image</right> 
 </p>
-
-## _includes/image.html
-<div class="image-wrapper" >
-  {% if include.url %}
-  <a href="{{ include.url }}" title="{{ include.title }}" target="_blank">
-  {% endif %}
-      <img src="{{ site.url }}/{{ include.img }}" alt="{{ include.title }}"/>
-  {% if include.url %}
-  </a>
-  {% endif %}
-  {% if include.caption %}
-      <p class="image-caption">{{ include.caption }}</p>
-  {% endif %}
-</div>
-
-## Include the image in your post and specify a caption with this tag
-{% include image.html img="assets/images/image_file" title="" caption="" %}
 
 
 <h3 align="left">Connect with me:</h3>
