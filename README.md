@@ -1,8 +1,5 @@
 ### Hola, I'm Juliana! 
 
-<!--
-**JPinillos/JPinillos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm interested in research in Economics. I have assited in different projects in enviromental and development economics.
 
 I finished my master at the Paris School of Economics and Université Paris 1 Patheón Sorbonne. 
