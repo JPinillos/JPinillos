@@ -1,5 +1,6 @@
+<img align="right" width="100" height="100" src="https://github.com/JPinillos/miscellaneous/blob/main/aviario001.jpg?raw=true">
 
-<h1 align="left">Hola, I'm Juliana</h1> <img align="right" width="100" height="100" src="https://github.com/JPinillos/miscellaneous/blob/main/aviario001.jpg?raw=true">
+<h1 align="left">Hola, I'm Juliana</h1> 
 
 <h3 align="left">I'm interested in research in Economics. I have assited in different projects in enviromental and development economics. I have experience in cleaning and analyzing large datasets. I have also coordinated and supervised data collections in Latin America. <br> <br/>
 
