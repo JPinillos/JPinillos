@@ -22,7 +22,7 @@ Colombian. Nature lover and passionate about climate change.
 
 <h3 align="left">Connect with me:</h3>
 
-- 📫 **juliana.pinillos@sciencespo.fr**
+- 📫 **pinillos@usc.edu**
 <p align="left">
 <a href="https://twitter.com/j_pinillosp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="j_pinillosp" height="30" width="40" /></a>
 </p>
