@@ -4,9 +4,9 @@
 
 <h1 align="left">Hola, I'm Juliana</h1> 
 
-<h3 align="left">I'm a PhD student in economics at the University of Sothern California. I am interested in applied microeconomics, with a focus on environmental economics. I have also participated in different projects related to urban and development economics.  <br> <br/>
+<h3 align="left">I'm a PhD student in economics at the University of Southern California. I am interested in applied microeconomics, with a focus on environmental economics. I have also participated in different projects related to urban and development economics.  <br> <br/>
 
-Previously I worked with the Inter-American Development Bank and Sciences Po. I obtained my master at the Paris School of Economics and tthe Université Paris 1 Patheón Sorbonne.</h3>
+Previously I worked with the Inter-American Development Bank and Sciences Po. I obtained my master at the Paris School of Economics and the Université Paris 1 Patheón Sorbonne.</h3>
 
 <h2 align="left">Languages and Tools:</h3>
 
