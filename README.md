@@ -8,7 +8,7 @@
 
 Previously, I worked with the Inter-American Development Bank and Sciences Po. I obtained my master at the Paris School of Economics and the Université Paris 1 Patheón Sorbonne.</h3>
 
-<h2 align="left">Languages and Tools:</h3>
+<h2 align="left">Tools:</h3>
 
 <p align="left"> <a href="https://rstudio.com//" target="_blank"> <img src="https://github.com/JPinillos/miscellaneous/blob/main/logos/RStudio.png" alt="R" width="40" height="40"/> </a> <a href="https://www.stata.com/" target="_blank"> <img src="https://github.com/JPinillos/miscellaneous/blob/main/logos/stata.jpg?raw=true alt="Stata" width="40" height="40"/> </a> <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> </a> <a href="https://qgis.org/en/site/" target="_blank"> <img src="https://github.com/JPinillos/miscellaneous/blob/main/logos/qgis.png" alt="QGIS" width="40" height="40"/> </a> </p>
 
