@@ -24,7 +24,7 @@ Check mi CV <a href="https://github.com/JPinillos/CV/blob/main/CV_JulianaPinillo
 
 <img align="right" width="33%" src="https://github.com/JPinillos/miscellaneous/blob/main/logos/aviario001.jpg?raw=true">
 
-Colombian. Nature lover and passionate about climate change.
+Colombian. Nature lover.
 
 
 
