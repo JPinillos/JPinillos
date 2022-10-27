@@ -7,7 +7,19 @@
 <h3 align="left">I'm a PhD student in economics at the University of Southern California. I am interested in applied microeconomics, with a focus on environmental and development economics.  <br> <br/>
 
 Check mi CV <a href="https://github.com/JPinillos/CV/blob/main/CV_JulianaPinillos.pdf" target="_blank">here.</a>
- <a href="//github.com/JPinillos/CV/blob/main/CV_JulianaPinillos.pdf">Test PDF</a>
+
+ #
+ 
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en" style="width:100%; height:100%;">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>kekayan's Resume</title>
+</head>
+  <body style="width:100%; height:100%; margin:0;">
+    <iframe src="https://docs.google.com/gview?url= https://github.com/JPinillos/CV/blob/main/CV_JulianaPinillos.pdf &embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
+  </body>
+</html>
   
 </h3>
 
