@@ -7,6 +7,8 @@
 <h3 align="left">I'm a PhD student in economics at the University of Southern California. I am interested in applied microeconomics, with a focus on environmental and development economics.  <br> <br/>
 
 Check mi CV <a href="https://github.com/JPinillos/CV/blob/main/CV_JulianaPinillos.pdf" target="_blank">here.</a>
+  here2 <embed src="https://github.com/JPinillos/CV/blob/main/CV_JulianaPinillos.pdf" type="application/pdf" />
+  
 </h3>
 
 <h2 align="left">Tools:</h3>
